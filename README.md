@@ -1,7 +1,7 @@
-# CC
+# Credit Card Form UI
 a simple credit card UI/UX 
 
-BUILD VERSION: 1.0
+# BUILD VERSION: 1.0
 
 -> This Build Contains a UI of a Payment System of Credit Cards supporting various credit cards
 
