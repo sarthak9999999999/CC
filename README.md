@@ -2,6 +2,7 @@
 a simple credit card UI/UX 
 
 # BUILD VERSION: 1.0
+# LATEST RELEASE - https://github.com/sarthak9999999999/CC/releases/latest
 
 -> This Build Contains a UI of a Payment System of Credit Cards supporting various credit cards
 
